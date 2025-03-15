@@ -25,7 +25,7 @@ This project is a waste classification system that uses machine learning to cate
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Waste-Classification/waste-classification.git
+   git clone https://github.com/SAMMILLERR/Waste-Classification.git
    cd waste-classification
    ```
 2. Install dependencies:
